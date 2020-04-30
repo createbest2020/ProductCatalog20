@@ -1,0 +1,2 @@
+rootProject.name='CB20'
+include ':app'

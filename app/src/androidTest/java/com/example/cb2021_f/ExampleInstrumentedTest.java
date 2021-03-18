@@ -1,4 +1,4 @@
-package com.example.cb20;
+package com.example.cb2021_f;
 
 import android.content.Context;
 
@@ -21,7 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-
-        assertEquals("com.example.cb20", appContext.getPackageName());
+        assertEquals("com.example.cb2021_f", appContext.getPackageName());
     }
 }

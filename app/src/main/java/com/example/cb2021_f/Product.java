@@ -1,4 +1,4 @@
-package com.example.cb20;
+package com.example.cb2021_f;
 
 public class Product {
     private String _id;
